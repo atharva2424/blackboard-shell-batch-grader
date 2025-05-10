@@ -1,0 +1,18 @@
+{
+  "criteria": [
+    {
+      "name": "42-line file",
+      "description": "Correct line count for the 42\u2011line file.",
+      "points": 1,
+      "input": "tests/sample_42.txt",
+      "expected": "42"
+    },
+    {
+      "name": "10-line file",
+      "description": "Correct line count for the 10\u2011line file.",
+      "points": 1,
+      "input": "tests/sample_10.txt",
+      "expected": "10"
+    }
+  ]
+}

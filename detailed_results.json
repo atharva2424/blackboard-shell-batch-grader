@@ -1,0 +1,56 @@
+{
+  "jsmith1": {
+    "total": 2,
+    "max_points": 2,
+    "criteria": [
+      {
+        "name": "42-line file",
+        "score": 1,
+        "points": 1,
+        "feedback": ""
+      },
+      {
+        "name": "10-line file",
+        "score": 1,
+        "points": 1,
+        "feedback": ""
+      }
+    ]
+  },
+  "kpatel3": {
+    "total": 0,
+    "max_points": 2,
+    "criteria": [
+      {
+        "name": "42-line file",
+        "score": 0,
+        "points": 1,
+        "feedback": "Expected 42, got 327"
+      },
+      {
+        "name": "10-line file",
+        "score": 0,
+        "points": 1,
+        "feedback": "Expected 10, got 71"
+      }
+    ]
+  },
+  "rlee4": {
+    "total": 0,
+    "max_points": 2,
+    "criteria": [
+      {
+        "name": "42-line file",
+        "score": 0,
+        "points": 1,
+        "feedback": "Expected 42, got 43"
+      },
+      {
+        "name": "10-line file",
+        "score": 0,
+        "points": 1,
+        "feedback": "Expected 10, got 11"
+      }
+    ]
+  }
+}
